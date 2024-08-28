@@ -155,6 +155,7 @@ i
 - [thesilverwolfx]{https://github.com/thesilverwolfx} **it's 2024, here I am contributing for the first time.**
 - [Rishabh Raj Verma]{https://github.com/RishabhRaj43} **Just contributed for fun**
 - [Ronel Torregoza]{https://github.com/Lesterronel} **Just contributed for fun. My first open source contribution😎**
+- Rifah Tasnia - Bismillah. 
 -[Firoar]{https://github.com/Firoar}
 **Testing few things out**
 - [Kepin](https://github.com/nathaniel-alvin) **Hellow, this is my first contribution to OSS community.**
